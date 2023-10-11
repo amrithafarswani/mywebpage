@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Qualities of a Google Program Manager</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #4285f4; /* Google blue color */
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Qualities of a Google Program Manager</h1>
+    <ul>
+        <li><strong>Goal-Oriented:</strong> Program Managers at Google need to be highly focused on achieving objectives and driving projects to successful completion. They set clear goals and work relentlessly to attain them.</li>
+        <li><strong>Organized:</strong> Being organized is crucial when managing complex programs. Google Program Managers need to juggle multiple tasks, teams, and timelines effectively.</li>
+        <li><strong>Open-Minded:</strong> Google values a culture of innovation, so an open mind is essential. You should be receptive to new ideas, diverse perspectives, and be willing to adapt to change.</li>
+        <li><strong>Great Communicator:</strong> Effective communication is vital. You should be able to convey your ideas clearly, collaborate with cross-functional teams, and keep stakeholders informed.</li>
+        <li><strong>Learner:</strong> Google appreciates continuous learning and growth. As a Program Manager, you should be eager to learn about emerging technologies, industry trends, and new management methodologies.</li>
+        <li><strong>Empathetic:</strong> Understanding the needs and concerns of team members and stakeholders is important. Empathy can help build strong working relationships and foster teamwork.</li>
+    </ul>
+</body>
+</html>
